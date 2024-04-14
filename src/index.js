@@ -8,7 +8,6 @@ import store from './store';
 
 
 
-
 const root = ReactDOM.createRoot(document.getElementById('root')); // Use createRoot
 root.render(
   <React.StrictMode>
